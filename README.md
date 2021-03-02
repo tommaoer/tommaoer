@@ -1,9 +1,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tommaoer&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=tommaoer" />
+
 ### Hi there 👋
 
 > I am a Ph.D. student at Institute of Computing Technology, Chinese Academy of Sciences. My research interest includes geometry processing, computer graphics and deep learning. 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **tommaoer/tommaoer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
