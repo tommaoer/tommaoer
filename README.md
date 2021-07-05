@@ -1,8 +1,5 @@
-### Hi there 👋, I am Jie Yang
+### Hi there 👋, I am Jie Yang <img src="https://profile-counter.glitch.me/tommaoer/count.svg" />
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/tommaoer/count.svg" />
-</p>
 
 ![Jie Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommaoer&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&show_icons=true&count_private=true&hide=prs&theme=default)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tommaoer&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
