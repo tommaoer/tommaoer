@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I am Jie Yang
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/tommaoer/count.svg" />
+</p>
 
 ![Jie Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommaoer&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&show_icons=true&count_private=true&hide=prs&theme=default)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tommaoer&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-> I am a Ph.D. student at Institute of Computing Technology, Chinese Academy of Sciences. My research interest includes geometry processing, computer graphics and deep learning. 
+> I am a Ph.D. student at Institute of Computing Technology, Chinese Academy of Sciences. My research interest includes geometry processing, computer graphics and deep learning. If you are interested in my research or potential collaborations, please feel free to contact me. 
 
 💬 Email: yangjie01@ict.ac.cn
 
